@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        self.pageTitle.text = "Universiy of Hawai'i West O'ahu"
+        self.pageTitle.text = "University of Hawai'i West O'ahu"
         self.view.backgroundColor = UIColor.systemGray
         self.itemDescription.text = "The University of Hawaiʻi–West Oʻahu serves as a puʻuhonua, where one is nurtured and prepared with a solid foundation. It is a place where one goes to be educated, informed, cared for, safe, and re-energized, which extends beyond the campus in a synergetic relationship with the community. Reflective of its unique place and the culture of UH West Oʻahu, the University instills within students, faculty, and staff a conscious responsibility toward respecting, caring for, and sustaining our ʻaina, both within the campus boundaries and beyond. UH West Oʻahu acknowledges Hawaiʻi as an indigenous space whose original people are today identified as Native Hawaiians through its Hōʻoia ʻĀina"
        
